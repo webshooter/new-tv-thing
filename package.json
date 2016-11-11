@@ -1,0 +1,27 @@
+{
+  "name": "new-tv-thing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Randall Nickerson",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "eslint-plugin-react": "^6.6.0",
+    "gulp": "^3.9.1",
+    "gulp-eslint": "^3.0.1",
+    "gulp-ignore": "^2.0.2",
+    "gulp-mocha": "^3.0.1",
+    "gulp-rimraf": "^0.2.1",
+    "gulp-shell": "^0.5.2",
+    "gulp-traceur": "^0.17.2",
+    "mocha-traceur": "^2.1.0"
+  },
+  "dependencies": {
+    "mongodb": "^2.2.11",
+    "mongoose": "^4.6.7"
+  }
+}
